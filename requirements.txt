@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+gunicorn
+requests
+pandas
+pyquery
+apscheduler
